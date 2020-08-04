@@ -1,11 +1,11 @@
-# 👋 ChrisWritesCode
-## ChrisWritesCode is the area
-...where playing and learning are one in the same.  Here, the sky's NOT the limit. Your imagination is!  And technology issues.  Yeah, technology issues are the limit too.  But... are they really...?
+# ChrisWritesCode 👋
+## ChrisWritesCode is the Area
+...where playing and learning are one and the same.  Here, the sky's NOT the limit. Your imagination is!  And technology issues.  Yeah, technology issues are the limit too.  But... are they really...?
 <!--
 **ChrisWritesCode/ChrisWritesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm a lover of
+## I'm a Lover of
 ...things Front-End Web development.  With lots of experience in Drupal 8, responsive development, Section 508 accessibility, website Translation management, and more!  I enjoy accessing problems and finding solutions that are modular, scalable, robust and above all, sensible!
 
 - 🔭 I’m currently working on Full Stack Web Development
@@ -17,9 +17,11 @@
 
 ## ⚡ Fun facts:
 * I am an ameteur screenwriter
-* Star Trek is better than Star Wars
-* Marvel is better than DC
-* Playstation is better than Xbox
+
+## What's Better
+* Star Trek > Star Wars
+* Marvel > DC
+* Playstation > Xbox
 
 <table>
   <tbody>
