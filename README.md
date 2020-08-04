@@ -1,4 +1,4 @@
-### 👋 ChrisWritesCode
+# 👋 ChrisWritesCode
 ## ChrisWritesCode is the area
 ...where playing and learning are one in the same.  Here, the sky's NOT the limit. Your imagination is!  And technology issues.  Yeah, technology issues are the limit too.  But... are they really...?
 <!--
@@ -15,7 +15,7 @@
 - 💬 Ask me about anything.  I may or may not have any answers for you...
 - 😄 Pronouns: Out-of-the-box Thinker
 
-##⚡ Fun facts:
+## ⚡ Fun facts:
 * I am an ameteur screenwriter
 * Star Trek is better than Star Wars
 * Marvel is better than DC
