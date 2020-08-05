@@ -13,7 +13,8 @@
 - 👯 I’m looking to collaborate on Drupal projects
 - 🤔 I’m looking for help with learning learning learning
 - 💬 Ask me about anything.  I may or may not have any answers for you...
-- 😄 Pronouns: Out-of-the-box Thinker
+- 😄 Pronouns: He/him
+- 😄 Adjective: Out-of-the-box Thinker
 
 ## ⚡ Fun facts:
 * I am an ameteur screenwriter
