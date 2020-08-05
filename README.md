@@ -57,6 +57,3 @@
     </tr>
   </tbody>
 </table>
-<br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChrisWritesCode) &nbsp; &nbsp;&nbsp; &nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christopher-lewis-01522327/)
